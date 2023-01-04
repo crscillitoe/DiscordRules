@@ -21,8 +21,7 @@ Smurfing is strictly prohibited. Any mention of using a smurf account will resul
 
 ***VOD Review Rules***
 
-Woohoojin offers free VOD reviews to help viewers improve. Improper VODs waste everyone’s time and interrupt the stream. You must read and agree to ALL rules in 🆓︱vod-review-reqs before joining a VOD review raffle.
-
+Woohoojin offers free VOD reviews to help viewers improve. In order to submit a vod you must assign your rank in #🏆︱rank-icon, read and accept all rules in #vod-review-reqs, and submit your vod to #vod-submission. Once that is done a staff member will review your submission and if it is approved you can enter raffles during stream.
 
 
 Moderation
