@@ -27,6 +27,7 @@
 
 - We often encourage higher rated players to pick up a second role, in this regard we want to see that they are playing 2 roles, and only those agents on those maps (Ex: Controller/Intiator) 
    - This can be tricky to ensure but we like to see one agent per map, if they play 2 and those 2 fit the roles it can make sense (Ex: Brim/KJ on fracture) if you are unsure ping Ethn and he will check. 
+   - If the user is below immortal we will hard enforce 1 agent per map.
 	
 		
 **What Qualifies as Acceptable Preround Comms?**
