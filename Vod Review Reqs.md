@@ -27,7 +27,7 @@ Attempted pre-round plans are required.
 	There is too much lost value in games where you are not communicating, and this makes the coaching experience far less valuable. Comm’ing only with your duo in Discord does not count. 
 	
 **4. Can I submit a VOD where I Fill? Is Filling okay?** 
-	No Fill VODs or trackers with excessive filling. This requirement is to make sure that your VOD review is not spent covering the basics of your role/agent if you are not playing them enough. 
+	No Fill VODs or trackers with excessive filling.  We consider filling playing more than 1 agent per map. If you are immortal+ a second agent on each map is acceptable. This requirement is to make sure that your VOD review is not spent covering the basics of your role/agent if you are not playing them enough. 
 
 **5. How Consistent is Consistent?**
 		In order to get effective vod review you should be playing consistently. We are requiring that 10 of the last 14 days show gameplay on your tracker.gg profile. This is to ensure that the advice you get can (1) be useful to you when you win a raffle, and (2) ensure that the vods being reviewed on stream are of the highest quality. If you only play once every 2 weeks you won't be able to implement the advice effectively.
@@ -48,7 +48,7 @@ Attempted pre-round plans are required.
 	Duo/Trio queue is fine if your duo/trio are not significantly better/worse than you. For 5stack, please see the message under this one. 
 	
 **2. Can I submit a 5-stack VOD?** 
-	All five members of the team must be members of the discord for at least a week and found in 👪︱lf-5stack. You will be required to ping them in stream chat when your vod is reviewed. All other vod review rules still apply.
+	All five members of the team must be members of the discord for at least a week and found in 👪︱lf-5stack. You will be required to ping them in stream chat when your vod is reviewed. All other vod review rules still apply. No scrims.
 
 	
 ***TROUBLESHOOTING & FAQ EXPLANATIONS***
@@ -74,12 +74,3 @@ This is a personal restriction. I believe Reyna is a feast or famine agent that 
   Step 3) Enter raffles during stream for a chance to win.
   
   VOD review raffles are run 2-3 times per stream in #raffles-and-predictions. 
-
-**What qualifies as filling?**
-
-	There are two ways we look at filling (1) are you playing too many agents, or (2) can we tell who you main.
-
-(1) Are you playing too many agents?
-	If we look at your tracker and see you playing multiple roles and multiple agents on each role we will consider you as filling too much.
-(2) Can we tell who you main?
-	Playing two roles is okay, in fact it is often necesarry as you climb the ranks, however we ask that you limit it to two roles and ideally only one agent per map. We understand that 
