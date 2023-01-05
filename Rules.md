@@ -1,6 +1,11 @@
 ***GENERAL RULES***
 
 1. Be Respectful. Treat others the way you want to be treated.
+	1. No Homophobia
+	2. No Transphobia
+	3. No Sexism
+	4. No Racism
+	6. No Being an Asshole, please just be a sane and kind human being
 2. No inappropriate language. 
 3. No spamming. 
 4. No pornographic/adult/other NSFW material. 
