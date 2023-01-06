@@ -43,3 +43,5 @@
 		  - "Go B"
 		  - "I have XYZ util"
 	  - The goal is to have comms that indicate a plan and attempt to coordinate utility and actions with their teammates. If the teammates don't follow that is not a disqualification so long as they attempt to make that call.
+	    
+	    
