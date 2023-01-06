@@ -1,0 +1,43 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "**How do I go about approving a vod?**",
+      "description": "Look in <#1055308028603269140> for any unapproved vods\n    - Ensure that the vod submission meets all submission criteria\n\t\t         - Timestamp to phrase linked\n\t\t\t\t- Tracker Linked\n\t\t\t\t- Youtube Vod\n- Watch the first 3 rounds of offense and defense to ensure that there are sufficient preround comms.\n  - We really care about rounds 2,3,14, and 15 (economic advantage and disadvantage rounds on each half)\n    - We want to see they are comming some sort of plan we can be lenient based on rank but overall we want to see them call to coordinate with at least one player if they have advantage, and to do something weird if they have disadvatage",
+      "color": 16116752
+    },
+    {
+      "title": "**- If the vod meets the requirements:**",
+      "description": "-  Make a comment noting it is approved and use the following commands\n\n\t  - `/manager flag_vod vod_type: approved`\n\t  -  `/temprole custom {user} 7d -Accepted Vod Review Rules +Vod Approved`\n\n          - This command will remove the accepted vod review rules role and apply the vod approved role for 7 days which will prevent the user from posting another vod, after the 7 days it will revert and they can post again.",
+      "color": 16116752
+    },
+    {
+      "title": "- **- If the vod does not meet the requirements:**",
+      "description": "- tag the post as rejected and use the command `/temprole custom {user} 7d -Accepted Vod Review Rules +Vod Rejected`\n\t    - As a note if someone clearly breaks rules and you think they should be prevented from submitting a vod for longer than a week, ask a mod.\n\t    - Make a comment explaining why the rejection was issued\n\t\t    - Cite the rule they break (ex: Broke rule **3. Do I need to Comm in-game?** )\n\t\t\t- There is no need to cite the full rule, just marking the number is enough\n\t\t\t- Include the phrase `If you feel this rejection is unfair please DM @ModMail`",
+      "color": 16116752
+    },
+    {
+      "title": "Implementation of Rules",
+      "description": "I have tried to make the rules readable so that both members and staff are able to understand what qualifies as meeting the rules but I will expand on some of them here for our internal use.",
+      "color": 16116752
+    },
+    {
+      "title": "**What is filling really? How do we tell if they are filling?**",
+      "description": "- We often encourage higher rated players to pick up a second role, in this regard we want to see that they are playing 2 roles, and only those agents on those maps (Ex: Controller/Intiator) \n   - This can be tricky to ensure but we like to see one agent per map, if they play 2 and those 2 fit the roles it can make sense (Ex: Brim/KJ on fracture) if you are unsure ping Ethn and he will check. \n   - If the user is below immortal we will hard enforce 1 agent per map.",
+      "color": 16116752
+    },
+    {
+      "title": "**What Qualifies as Acceptable Preround Comms?**",
+      "description": "- Pre round comms we are looking for are going to be dependent on many factors, primarily rank.  We will have some leniency for golds that we won't have for immortals. \n  - We are looking for comms in rounds 2+3 of each half (2,3,14,15) to see if the player is attempting to coordinate with their team.",
+      "color": 16116752
+    },
+    {
+      "title": "**What qualifies as a good comm?**:",
+      "description": "- We want them to be planning, and communicating \n\t\t  - A good preround comm could be as simple as \"Hey XXX, I want to push A main, can you come with me?\" or  \"Hey XXX can you flash/stun/util so I can do YYY?\"\n\n\t\t  - If they are playing sentinel an acceptable comm can be \"I am going to set up my utility to spot/hold XYZ you don't have to play there\"\n\t  - We don't want\n\t\t  - \"Lets rush A\"\n\t\t  - \"Go B\"\n\t\t  - \"I have XYZ util\"\n\n\t  - The goal is to have comms that indicate a plan and attempt to coordinate utility and actions with their teammates. If the teammates don't follow that is not a disqualification so long as they attempt to make that call.",
+      "color": 16116752
+    }
+  ],
+  "username": "Banana Embeds",
+  "avatar_url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936256625852456/Hoojpainter.png",
+  "attachments": []
+}

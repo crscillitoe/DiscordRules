@@ -31,4 +31,4 @@ Woohoojin offers free VOD reviews to help viewers improve. In order to submit a 
 
 Moderation
 
-  The Mods and Community Managers will Mute/Kick/Ban at their discretion. If you need bring something up to the Moderation Team, DM @MOD MAIL. All Channels will have pinned messages explaining what they are there for and how everything works. If you don't understand something, feel free to ask! Your presence in this server implies accepting these rules, including all further changes. These changes might be done at any time without notice, it is your responsibility to check for them. Last Updated: 12/30/2022
+  The Mods and Community Managers will Mute/Kick/Ban at their discretion. If you need bring something up to the Moderation Team, DM @MOD MAIL. All Channels will have pinned messages explaining what they are there for and how everything works. If you don't understand something, feel free to ask! Your presence in this server implies accepting these rules, including all further changes. These changes might be done at any time without notice, it is your responsibility to check for them. Last Updated: 1/6/2023

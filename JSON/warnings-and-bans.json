@@ -1,0 +1,48 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Warnings and Ban Policy",
+      "description": "Moderation of this server is a difficult job and often exists in gray areas. As a community manager you have the power to warn people and time them out with the following commands.",
+      "color": 16116752
+    },
+    {
+      "title": "**Warns**",
+      "description": "Warn\n`/moderation warn {user} {reason}`\n`/moderation warn @Ethn#1225 Being rude`\n\nWe use warns to track when staff have to speak to members about their behavior. Warns are not an indication that something needs to be done but as a record keeping system for us. If you interact with a user in a moderation context please issue a warning so we can track it across all community managers and moderators.\n\nIf you warn a user and you see they have several warnings talk to a mod or Sr. Community Manager to determine if the user should be timed out or banned. (see Timeout section for timeout duration suggestions)",
+      "color": 16116752
+    },
+    {
+      "title": "- **- If the vod does not meet the requirements:**",
+      "description": "- tag the post as rejected and use the command `/temprole custom {user} 7d -Accepted Vod Review Rules +Vod Rejected`\n\t    - As a note if someone clearly breaks rules and you think they should be prevented from submitting a vod for longer than a week, ask a mod.\n\t    - Make a comment explaining why the rejection was issued\n\t\t    - Cite the rule they break (ex: Broke rule **3. Do I need to Comm in-game?** )\n\t\t\t- There is no need to cite the full rule, just marking the number is enough\n\t\t\t- Include the phrase `If you feel this rejection is unfair please DM @ModMail`",
+      "color": 16116752
+    },
+    {
+      "title": "**Timeout**",
+      "description": "Timeout\n    `/moderation timeout: {user} reason{explanation} duration:{duration}`\n    `/moderation timeout: @Ethn#1225 reason: Being rude duration: 7d`\n-  Duration of timeouts is at your discretion, \n    - if it is a minor infraction timeout on the scale of 1-24 hours\n    - If it is a second timout or the user is being extra difficult timeout on the scale of 1-3 days\n    - If it is a third timeout or the user is being extraordinarily difficult timeout on the scale of 1-4 weeks\n\t    - If you find yourself wanting to time someone out for this long talk to a mod because we probably want to ban them.",
+      "color": 16116752
+    },
+    {
+      "title": "**What is filling really? How do we tell if they are filling?**",
+      "description": "- We often encourage higher rated players to pick up a second role, in this regard we want to see that they are playing 2 roles, and only those agents on those maps (Ex: Controller/Intiator) \n   - This can be tricky to ensure but we like to see one agent per map, if they play 2 and those 2 fit the roles it can make sense (Ex: Brim/KJ on fracture) if you are unsure ping Ethn and he will check. \n   - If the user is below immortal we will hard enforce 1 agent per map.",
+      "color": 16116752
+    },
+    {
+      "title": "**Bans**",
+      "description": "Sr. Community Managers have the ability to ban users. Bans should be issued when a user clearly breaks server rules like smurfing or being hateful towards other members. \n\n`/moderation ban {user} reason:{reason}`\n`/moderation ban @Ethn#1225 reason: Being rude, submit an unban request at https://unban.woohoojin.dev`\n\nPlease ensure in all bans that you list a reason and include that they can submit an unban request at https://unban.woohoojin.dev\n\nBans are at your discretion, please ensure that you provide a valid reason and that you can articulate why the user got banned. If you abuse the power to ban you will no longer have that power.",
+      "color": 16116752
+    },
+    {
+      "title": "**Mod Mail**",
+      "description": "To view and answer ModMail tickets you will need the `@Mod Mail Answerer` role. This role should be assigned to all Sr. Community Managers, and will be assigned to Community Managers as they become more comfortable with the moderation process.",
+      "color": 16116752
+    },
+    {
+      "title": "**Answering ModMail Tickets**",
+      "description": "In order to answer tickets you must use the prefix `=reply {message}` or `=aprely {message}` to reply and let the user see which moderator is replying or to hide the name and reply anonymously.\n- Unless there is a reason to reply with your name, please default to using `=areply` to respond to tickets.  \n- When answering tickets please remain respectful. \n\nTo close a ticket use the command `=close {message}` or `=aclose {message}` to close the ticket with your name or anonymously.  \n-  Unless there is a reason to close with your name, please default to using `=aclose` to close tickets\n    - When closing a ticket it sends the message to the user who submitted so please ensure closing messages remain respectful and topical.",
+      "color": 16116752
+    }
+  ],
+  "username": "Banana Embeds",
+  "avatar_url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936256625852456/Hoojpainter.png",
+  "attachments": []
+}

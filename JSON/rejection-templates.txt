@@ -1,0 +1,21 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Templates for Vod Rejection",
+      "description": "Please use these templates for your rejections: it will keep everything consistent and you don't have to think about it.",
+      "color": 16116752
+    },
+    {
+      "description": "```\nYour Vod has been rejected for the following reason(s)\n\n1. Not enough pre-round communication\n\t1. You must attempt to coordinate plays with your team before the round starts for the entire match. Bad plans are better than no plans. \n\t2. Example of an acceptable plan:\n\t\t1. \"Phoenix, I'll put this cage up for you to flash out of if they push us.\" ✅ \n\t3. Example of a low-effort plan that does not count: \n\t\t1. \"Let's all go to A.\" ❌ \n\nCommunicating with your duo in Discord instead of communicating with your team is not acceptable.\n\n2. This agent is a fill game/you are filling too often\n\t1. Having a main agent server a prupose, it allows you to hyperfocus on improvement. Changing agents constantly supresses that ability to improve. We want everyone to improve and not filling is one way to speed up the improvement process. \n\n\n3. Not playing consistently enough.\n\t1. We require that you play 11 out of the last 14 days. This is because consistent gameplay is the best way to improve.\n\n4. Minimap is covered\n5. VOD has Music\n6. Breaks Rule 7\n\t1. {Cite Rule 7 rule broken}\n\n```",
+      "color": 16116752
+    },
+    {
+      "description": "If a vod breaks the duo/trio/5stack rule just write that. All rejections should end with a statement:\n\nIf you feel this rejection is unfair please DM <@575252669443211264>",
+      "color": 16116752
+    }
+  ],
+  "username": "Banana Embeds",
+  "avatar_url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936256625852456/Hoojpainter.png",
+  "attachments": []
+}

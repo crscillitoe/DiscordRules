@@ -12,21 +12,21 @@
 
 ### FAQ to Know Before Reading the Requirments
 
-**Why so many rules?**
+**1. Why so many rules?**
 	VOD reviews are meant to help you climb the ranks. These rules ensure that VODs are of players already familiar with their role and agent, maximizing learning potential.  
 
-**1. How do I get my VOD reviewed?**
+**2. How do I get my VOD reviewed?**
 	1. Get your rank assigned in #🏆︱rank-icon 
 	2. Read, understand, and accept all rules in this channel.
 	3. Submit your VOD to #vod-submission and if you are approved you can enter the raffles in #raffles-and-predictions on stream.
 
-**2. What type of VOD is best to submit?**
+**3. What type of VOD is best to submit?**
 	I prefer games with a close score line where you felt you performed well. Mistakes made in your good matches are mistakes you'll make in every match. 
 	
-**3. How much do VOD Reviews Cost? **
+**4. How much do VOD Reviews Cost? **
 	VOD reviews have always been, and will always be completely free of charge. Starting January 10, 2023 all VODs must contain you typing "Good Luck" in all chat in round 1 to show you have read all of the VOD review requirements. Discord subscribers get extra tickets for increased odds to win raffles, but anyone can win at any time. See [https://discord.com/channels/915336728707989534/role-subscriptions](https://discord.com/channels/915336728707989534/role-subscriptions "https://discord.com/channels/915336728707989534/role-subscriptions") for the exact details of the subscription benefits. 
 	
- **4. Can I submit a vod in another language?**
+ **5. Can I submit a vod in another language?**
  Yes! VODs can be submitted in any language as long as you are able to translate comms into English if asked during stream. 
  
 	

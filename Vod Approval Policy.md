@@ -8,7 +8,10 @@
   - We really care about rounds 2,3,14, and 15 (economic advantage and disadvantage rounds on each half)
     - We want to see they are comming some sort of plan we can be lenient based on rank but overall we want to see them call to coordinate with at least one player if they have advantage, and to do something weird if they have disadvatage
 - **- If the vod meets the requirements:**
-  - tag the post as approved, Make a comment noting it is approved and use the command `/temprole custom {user} 7d -Accepted Vod Review Rules +Vod Approved`
+  -  Make a comment noting it is approved and use the following commands
+	  - `/manager flag_vod vod_type: approved`
+	  -  `/temprole custom {user} 7d -Accepted Vod Review Rules +Vod Approved`
+	  - 
           - This command will remove the accepted vod review rules role and apply the vod approved role for 7 days which will prevent the user from posting another vod, after the 7 days it will revert and they can post again.
 - **- If the vod does not meet the requirements:**
     - tag the post as rejected and use the command `/temprole custom {user} 7d -Accepted Vod Review Rules +Vod Rejected`

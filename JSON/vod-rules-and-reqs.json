@@ -1,0 +1,63 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936257041072169/readallrules.png",
+      "color": 16116752,
+      "image": {
+        "url": "https://images.maybeethan.org/2023/January/06/readallrules.png"
+      }
+    },
+    {
+      "description": "**The rules and requirements set out below are preliminary coaching.**\n\nPlease read all of the rules, requirements, FAQ, and troubleshooting sections set out in this channel.  If your vod does not meet these requirements, the only advice you would get would be to play until you do. Ensuring you meet these requirements is the first step to improvement.",
+      "color": 16116752
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936258358087741/vodreqs.png",
+      "color": 16116752,
+      "image": {
+        "url": "https://images.maybeethan.org/2023/January/06/vodreqs.png"
+      }
+    },
+    {
+      "description": "__**1. You Must Communicate In Game**__\nAttempted pre-round plans are required. \n - Example of acceptable pre-round plan: \"Phoenix, I'll put this cage up for you to flash out of if they push us.\"\n- NOT acceptable pre-round plan: \"Let's all go to A.\"\n\n\tThere is too much lost value in games where you are not communicating, and this makes the coaching experience far less valuable. Comm’ing only with your duo in Discord does not count. \n\t\n__**2. No Filling**__\n\tNo Fill VODs or trackers with excessive filling.  We consider filling playing more than 1 agent per map. \n\tIf you are immortal+ a second role is acceptable. This requirement is to make sure that your VOD review is not spent covering the basics of your role/agent if you are not playing them enough. \n\n__**3. You Must Play Consistently.**__\n\t\tWe are requiring that 11 of the last 14 days show competitive gameplay on your tracker.gg profile. This is to ensure that the advice you get can (1) be useful to you when you win a raffle, and (2) ensure that the vods being reviewed on stream are of the highest quality. If you only play once every 2 weeks you won't be able to implement the advice effectively.\n\t\t\n__**4. Minimap must be uncovered**__\n\tYour minimap cannot be hidden. (Ex: most twitch streamers hide their minimap)\n\t\n__**5. No Music.**__\n    No Music is allowed, DMCA strikes are too risky.\n\n__**6. Vod Must Be Uploaded to Youtube.**__\nUpload your vod as an unlisted youtube video in order to post it.\n    \n__**7. Other Non-Allowed Things**__\nNo Reyna.\nNo Astra Allowed Below Immortal.\nUNTIL FURTHER NOTICE, VODS ON BIND WILL NOT BE ALLOWED.",
+      "color": 16116752
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936255933775932/duo_trio_6.png",
+      "color": 16116752,
+      "image": {
+        "url": "https://images.maybeethan.org/2023/January/06/duo_trio_6.png"
+      }
+    },
+    {
+      "description": "__**1. Can I submit a Ranked game where I'm playing with friends?** __\n\tDuo/Trio queue is fine if your duo/trio is not significantly better/worse than you. For 5stack, please see the message under this one. \n\t\n__**2. Can I submit a 5-stack VOD?** __\n\tAll five members of the team must be members of the discord and must be subscribed for at least a week and found in <#1046985276192468998>. You must ping them in stream chat when your vod is reviewed. All other vod review rules still apply. No scrims.",
+      "color": 16116752
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936257372426311/reqs-faq.png",
+      "color": 16116752,
+      "image": {
+        "url": "https://images.maybeethan.org/2023/January/06/reqs-faq.png"
+      }
+    },
+    {
+      "description": "__**1. Why so many rules?**__\n\tVOD reviews are meant to help you climb the ranks. These rules ensure that VODs are of players already familiar with their role and agent, maximizing learning potential.  \n\n__**2. How do I get my VOD reviewed?**__\n\t1. Get your rank assigned in <#1030579201247547433>\n\t2. Read, understand and accept all rules in this channel.\n\t3. Submit your VOD to <#1055308028603269140>, and if you are approved, you can enter the raffles in #raffles-and-predictions on stream.\n\n__**3. What type of VOD is best to submit?**__\n\tI prefer games with a close scoreline where you felt you performed well. Mistakes made in your good matches are mistakes you'll make in every match. \n\t\n__**4. How much do VOD Reviews Cost? **__\n\tVOD reviews have always been and will always be completely free of charge. Starting January 13, 2023, all VODs must contain you typing \"GOOD LUCK HAVE FUN\" in all chat in round 1 to show you have read all of the VOD review requirements.\n\n Discord subscribers get extra tickets for increased odds to win raffles, but anyone can win anytime. See [https://discord.com/channels/915336728707989534/role-subscriptions](https://discord.com/channels/915336728707989534/role-subscriptions \"https://discord.com/channels/915336728707989534/role-subscriptions\") for the exact details of the subscription benefits. \n\t\n__ **5. Can I submit a vod in another language?**__\n Yes! VODs can be submitted in any language as long as you are able to translate comms into English if asked during stream.",
+      "color": 16116752
+    },
+    {
+      "url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936258035122187/troubleshoot.png",
+      "color": 16116752,
+      "image": {
+        "url": "https://images.maybeethan.org/2023/January/06/troubleshoot.png"
+      }
+    },
+    {
+      "description": "__**1. Why can't I accept the vod review rules?** __\nYou must have your rank role assigned in the server to ensure you are Gold+. Head over to <#1030579201247547433> \n\nIf you have issues, please DM  <@575252669443211264> for assistance. \n\n__**2. Why don't you review Reyna?** __\nThis is a personal restriction. I believe Reyna is a feast or famine agent that is heavily lacking in strong utility. She relies on your personal ability to frag out, and my coaching style is the opposite of this. My coaching will help you rank up even if you're a weak fragger. On the flip side, I'm not the best at teaching people how to frag out, so Reyna is a very bad fit for me. \n\n__**3. Why no Astra for lower than immortal?** __\nAstra is an incredibly complicated agent and relies far too much on your teammates to be truly effective. Below immortal, you are always better off playing other controllers.\n\n__**4. Why no vods under Gold?**__\n\tThe game doesn't really start until you reach gold. Under that rank you should simply focus on your mechanics, lock Reyna and frag out. I have created a practice routine that can be found here: https://youtu.be/9KIoTtohkOQ \n\tYou can also watch the Boomer to Diamond series on my youtube: https://youtu.be/6qxDapvpZMc\n\n__**React to this to verify you have read and accept all of the rules and restrictions.**__",
+      "color": 16116752
+    }
+  ],
+  "username": "Banana Embeds",
+  "avatar_url": "https://cdn.discordapp.com/attachments/1060936135930560542/1060936256625852456/Hoojpainter.png",
+  "attachments": []
+}

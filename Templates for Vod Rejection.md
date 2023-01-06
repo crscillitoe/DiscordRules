@@ -28,4 +28,8 @@ Communicating with your duo in Discord instead of communicating with your team i
 
 ```
 
-If a vod breaks the duo/trio/5stack rule just write that.
+If a vod breaks the duo/trio/5stack rule just write that. All rejections should end with a statement:
+
+```
+If you feel this rejection is unfair please DM @ModMail
+```
