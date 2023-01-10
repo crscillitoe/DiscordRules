@@ -54,9 +54,8 @@ Attempted pre-round plans are required.
 **5. No Music.**
     No Music is allowed, DMCA strikes are too risky.
     
-**6. Other Non-Allowed Thinigs
-No Astra Allowed Below Immortal**  
-**UNTIL FURTHER NOTICE, VODS ON BIND WILL NOT BE ALLOWED.** 
+**6. Other Non-Allowed Things
+No Astra Allowed Below Immortal**
 
     
 ### DUOS / TRIOS / 5-STACKS
