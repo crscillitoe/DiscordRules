@@ -12,18 +12,8 @@
       "color": 16116752
     },
     {
-      "title": "- **- If the vod does not meet the requirements:**",
-      "description": "- tag the post as rejected and use the command `/temprole custom {user} 7d -Accepted Vod Review Rules +Vod Rejected`\n\t    - As a note if someone clearly breaks rules and you think they should be prevented from submitting a vod for longer than a week, ask a mod.\n\t    - Make a comment explaining why the rejection was issued\n\t\t    - Cite the rule they break (ex: Broke rule **3. Do I need to Comm in-game?** )\n\t\t\t- There is no need to cite the full rule, just marking the number is enough\n\t\t\t- Include the phrase `If you feel this rejection is unfair please DM @ModMail`",
-      "color": 16116752
-    },
-    {
       "title": "**Timeout**",
       "description": "Timeout\n    `/moderation timeout: {user} reason{explanation} duration:{duration}`\n    `/moderation timeout: @Ethn#1225 reason: Being rude duration: 7d`\n-  Duration of timeouts is at your discretion, \n    - if it is a minor infraction timeout on the scale of 1-24 hours\n    - If it is a second timout or the user is being extra difficult timeout on the scale of 1-3 days\n    - If it is a third timeout or the user is being extraordinarily difficult timeout on the scale of 1-4 weeks\n\t    - If you find yourself wanting to time someone out for this long talk to a mod because we probably want to ban them.",
-      "color": 16116752
-    },
-    {
-      "title": "**What is filling really? How do we tell if they are filling?**",
-      "description": "- We often encourage higher rated players to pick up a second role, in this regard we want to see that they are playing 2 roles, and only those agents on those maps (Ex: Controller/Intiator) \n   - This can be tricky to ensure but we like to see one agent per map, if they play 2 and those 2 fit the roles it can make sense (Ex: Brim/KJ on fracture) if you are unsure ping Ethn and he will check. \n   - If the user is below immortal we will hard enforce 1 agent per map.",
       "color": 16116752
     },
     {
